@@ -1,0 +1,35 @@
+Microsoft (R) COFF/PE Dumper Version 14.36.32534.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file MT5APIManager64.dll
+
+File Type: DLL
+
+  Section contains the following exports for MT5APIManager64.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+           5 number of functions
+           5 number of names
+
+    ordinal hint RVA      name
+
+          1    0 00184BA0 MTAdminCreate
+          2    1 00184BC0 MTAdminCreateExt
+          3    2 00184BB0 MTManagerCreate
+          4    3 00184D60 MTManagerCreateExt
+          5    4 00184F20 MTManagerVersion
+
+  Summary
+
+      330000 .cod0
+       3C000 .data
+       18000 .pdata
+       A1000 .rdata
+        7000 .reloc
+       12000 .rsrc
+      29F000 .text
+        1000 _RDATA
